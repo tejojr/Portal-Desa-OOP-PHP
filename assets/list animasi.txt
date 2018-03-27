@@ -1,0 +1,138 @@
+						2D Transitions
+
+hvr-grow     	             =         Grow
+hvr-shrink                   =         Shrink
+hvr-pulse                    =         Pulse
+hvr-pulse-grow               =         Pulse Grow
+hvr-pulse-shrink             =         Pulse Shrink
+hvr-push                     =         Push
+hvr-pop                      =         Pop
+hvr-bounce-in                =         Bounce In
+hvr-bounce-out               =         Bounce Out
+hvr-rotate                   =         Rotate
+hvr-grow-rotate              =         Grow Rotate
+hvr-float                    =         Float
+hvr-sink                     =         Sink
+hvr-bob                      =         Bob
+hvr-hang                     =         Hang
+hvr-skew                     =         Skew
+hvr-skew-forward             =         Skew Forward
+hvr-skew-backward            =         Skew Backward
+hvr-wobble-horizontal        =         Wobble Horizontal
+hvr-wobble-vertical          =         Wobble Vertical
+hvr-wobble-to-bottom-right   =         Wobble To Bottom Right
+hvr-wobble-to-top-right      =         Wobble To Top Right
+hvr-wobble-top               =         Wobble Top
+hvr-wobble-bottom            =         Wobble Bottom
+hvr-wobble-skew              =         Wobble Skew
+hvr-buzz                     =         Buzz
+hvr-buzz-out                 =         Buzz Out
+hvr-forward                  =         Forward
+hvr-backward                 =         Backward
+
+
+				Background Transitions
+
+hvr-fade                     =         Fade
+hvr-back-pulse               =         Back Pulse
+hvr-sweep-to-right           =         Sweep To Right
+hvr-sweep-to-left            =         Sweep To Left
+hvr-sweep-to-bottom          =         Sweep To Bottom
+hvr-sweep-to-top             =         Sweep To Top
+hvr-bounce-to-right          =         Bounce To Right
+hvr-bounce-to-left           =         Bounce To Left
+hvr-bounce-to-bottom         =         Bounce To Bottom
+hvr-bounce-to-top            =         Bounce To Top
+hvr-radial-out               =         Radial Out
+hvr-radial-in                =         Radial In
+hvr-rectangle-in             =         Rectangle In
+hvr-rectangle-out            =         Rectangle Out
+hvr-shutter-in-horizontal    =         Shutter In Horizontal
+hvr-shutter-out-horizontal   =         Shutter Out Horizontal
+hvr-shutter-in-vertical      =         Shutter In Vertical
+hvr-shutter-out-vertical     =         Shutter Out Vertical
+
+
+				Icons
+
+hvr-icon-back                =         Icon Back
+hvr-icon-forward             =         Icon Forward
+hvr-icon-down                =         Icon Down
+hvr-icon-up                  =         Icon Up
+hvr-icon-spin                =         Icon Spin
+hvr-icon-drop                =         Icon Drop
+hvr-icon-fade                =         Icon Fade
+hvr-icon-float-away          =         Icon Float Away
+hvr-icon-sink-away           =         Icon Sink Away
+hvr-icon-grow                =         Icon Grow
+hvr-icon-shrink              =         Icon Shrink
+hvr-icon-pulse               =         Icon Pulse
+hvr-icon-pulse-grow          =         Icon Pulse Grow
+hvr-icon-pulse-shrink        =         Icon Pulse Shrink
+hvr-icon-push                =         Icon Push
+hvr-icon-pop                 =         Icon Pop
+hvr-icon-bounce              =         Icon Bounce
+hvr-icon-rotate              =         Icon Rotate
+hvr-icon-grow-rotate         =         Icon Grow Rotate
+hvr-icon-float               =         Icon Float
+hvr-icon-sink                =         Icon Sink
+hvr-icon-bob                 =         Icon Bob
+hvr-icon-hang                =         Icon Hang
+hvr-icon-wobble-horizontal   =         Icon Wobble Horizontal
+hvr-icon-wobble-vertical     =         Icon Wobble Vertical
+hvr-icon-buzz                =         Icon Buzz
+hvr-icon-buzz-out            =         Icon Buzz Out
+
+
+				Border Transitions
+
+hvr-border-fade                =         Border Fade
+hvr-hollow                     =         Hollow
+hvr-trim                       =         Trim
+hvr-ripple-out                 =         Ripple Out
+hvr-ripple-in                  =         Ripple In
+hvr-outline-out                =         Outline Out
+hvr-outline-in                 =         Outline In
+hvr-round-corners              =         Round Corners
+hvr-underline-from-left        =         Underline From Left
+hvr-underline-from-center      =         Underline From Center
+hvr-underline-from-right       =         Underline From Right
+hvr-reveal                     =         Reveal
+hvr-underline-reveal           =         Underline Reveal
+hvr-overline-reveal            =         Overline Reveal
+hvr-overline-from-left         =         Overline From Left
+hvr-overline-from-center       =         Overline From Center
+hvr-overline-from-right        =         Overline From Right
+
+
+				Shadow and Glow Transitions
+
+hvr-shadow                      =         Shadow
+hvr-grow-shadow                 =         Grow Shadow
+hvr-float-shadow                =         Float Shadow
+hvr-glow                        =         Glow
+hvr-shadow-radial               =         Shadow Radial
+hvr-box-shadow-outset           =         Box Shadow Outset
+hvr-box-shadow-inset            =         Box Shadow Inset
+
+
+				Speech Bubbles
+
+hvr-bubble-top                  =         Bubble Top
+hvr-bubble-right                =         Bubble Right
+hvr-bubble-bottom               =         Bubble Bottom
+hvr-bubble-left                 =         Bubble Left
+hvr-bubble-float-top            =         Bubble Float Top
+hvr-bubble-float-right          =         Bubble Float Right
+hvr-bubble-float-bottom         =         Bubble Float Bottom
+hvr-bubble-float-left           =         Bubble Float Left
+
+
+				Curls
+
+hvr-curl-top-left               =         Curl Top Left
+hvr-curl-top-right              =         Curl Top Right
+hvr-curl-bottom-right           =         Curl Bottom Right
+hvr-curl-bottom-left            =         Curl Bottom Left
+
+
